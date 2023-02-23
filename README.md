@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there! 👋
+
+##### I'm a Full Stack Developer based in Brazil. My expertise is React.js, but I've also worked with Node.js, SQL, CSS, HTML, PHP (Laravel) and MQL5 (specific for creating Expert Advisors in MetaTrader5).
+
+##### My passions are technology, gaming and polishing my developer skills.
+
+##### I've been programming for more than eight years and working professionally with it for almost five years.
+
+##### Apart from Portuguese, I'm also fluent in English and an advanced Spanish speaker.
 
 <!--
 **cemotterf/cemotterf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
